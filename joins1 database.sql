@@ -1,0 +1,4 @@
+CREATE DATABASE Joins1
+
+
+
